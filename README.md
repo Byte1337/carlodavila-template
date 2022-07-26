@@ -1,2 +1,1 @@
-# carlodavila.com
-Carlo's Website Starter
+# Carlo's Website Starter
